@@ -1,12 +1,15 @@
 # Newsletter Agent
 
 Newsletter Agent researches current web sources, prepares an AI newsletter, reviews its quality, and lets the user send the approved issue to every configured subscriber.
-
-## Video preview
-
 ## Video Preview
 
-🎥 **[Watch the Newsletter Agent demo on Google Drive](https://drive.google.com/file/d/1b8CliOWlr9HG3ZMxEMWaZW7WsBjpE2Yi/view?usp=sharing)**
+<video controls muted playsinline width="900">
+  <source
+    src="https://github.com/Jasmitsingh01/newsletter-agent/releases/download/v1.0.0/Screencast.from.2026-09-22.02-59-33.webm"
+    type="video/webm"
+  />
+  Your browser does not support the video element.
+</video>
 
 A short walkthrough showing the research workflow, live browser automation, human-in-the-loop review, newsletter generation, and delivery flow.
 
