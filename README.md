@@ -4,7 +4,7 @@ Newsletter Agent researches current web sources, prepares an AI newsletter, revi
 
 ## Video preview
 
-<video controls muted playsinline width="900" src="./Screencast%20from%202026-09-22%2002-59-33.webm">
+<video controls muted playsinline width="900" src="https://drive.google.com/file/d/1b8CliOWlr9HG3ZMxEMWaZW7WsBjpE2Yi/view?usp=sharing">
   Your browser does not support embedded video. Download [the product walkthrough](./Screencast%20from%202026-09-22%2002-59-33.webm).
 </video>
 
